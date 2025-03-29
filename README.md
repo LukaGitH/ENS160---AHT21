@@ -36,6 +36,3 @@ Install these libraries via the Arduino Library Manager:
 - Passes that data to the ENS160 to improve air quality readings.
 - Prints **Temperature**, **Humidity**, **AQI**, **TVOC**, and **eCO2** to the Serial Monitor.
 - Toggles the onboard LED every second.
-
-## 🖥️ Serial Output Example
-
