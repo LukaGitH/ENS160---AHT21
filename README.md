@@ -26,7 +26,7 @@ This project reads and displays environmental data using the **ENS160 digital ai
 Install these libraries via the Arduino Library Manager:
 
 - [`Adafruit AHTX0`](https://github.com/adafruit/Adafruit_AHTX0)
-- `ScioSense_ENS160` (from Sciosense or GitHub)
+- [`ScioSense_ENS160`](https://github.com/adafruit/ENS160_driver)
 - `Wire` (built-in)
 
 ## 🚀 How It Works
